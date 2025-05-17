@@ -8,12 +8,6 @@
 - 📫 How to reach me: **jacksonzhang077@gmail.com**
 
 - ⚡ What I like to do: **I like to learn something new**
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-(www.linkedin.com/in/jackson-zhang-276027240)
   
 </div>
 
